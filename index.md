@@ -21,7 +21,6 @@ import sys
 import string
 nltk.download('vader_lexicon')
 
-![Image](https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_960_720.png)
 ```
 
 
